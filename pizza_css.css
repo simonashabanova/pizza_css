@@ -1,0 +1,23 @@
+body{
+    background:url("pizza3.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+
+}
+
+.violet{
+    background-color: #ecb3ff;
+}
+
+.crveno{
+    background-color: #ff0000;
+}
+
+.zolto{
+    background-color: #ffff00;
+}
+
+.zeleno{
+    background-color: #00ff00;
+}
